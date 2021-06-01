@@ -1,2 +1,2 @@
 # primeirojava
-Primeiro programa em JAva (POO)
+Primeiro programa em Java (POO)
